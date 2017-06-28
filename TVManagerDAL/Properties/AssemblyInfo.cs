@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("TVManagerUI")]
+[assembly: AssemblyTitle("TVManagerDAL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("TVManagerUI")]
+[assembly: AssemblyProduct("TVManagerDAL")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("41a68bb2-d147-4af0-b15b-0efd73ac369b")]
+[assembly: Guid("44dd8b2f-d000-4b39-87c0-a2cae8e6dac4")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

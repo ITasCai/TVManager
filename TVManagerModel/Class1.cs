@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TVManagerUI
+namespace TVManagerModel
 {
     public class Class1
     {
